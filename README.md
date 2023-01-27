@@ -2,20 +2,20 @@
 
 Submitted by: James Kor
 
-**Name of your app** is an app that introduces ... [TODO] 
+**CS490 HW#1** is an app that introduces chess.
 
-Time spent: 5 hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are able to see a customized app icon and launch screen
-- [ ] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [ ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
-- [ ] Users are able to see at least 3 context items
-- [ ] Users are able to tap into each context item and see detail view
-- [ ] Detail view contains information about each item (title, description, picture if applicable, etc.)
+- [x] Users are able to see a customized app icon and launch screen
+- [x] Your app should work for any screen size and orientation using AutoLayout constraints
+  - [x] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
+- [x] Users are able to see at least 3 context items
+- [x] Users are able to tap into each context item and see detail view
+- [x] Detail view contains information about each item (title, description, picture if applicable, etc.)
  
 The following **optional** features are implemented:
 
@@ -27,21 +27,23 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+https://imgur.com/a/KTesiav
+
+<img src='https://imgur.com/a/KTesiav' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with imgur
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+Constraints were a bit tricky to figure out, but eventually it worked.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [James Kor]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
